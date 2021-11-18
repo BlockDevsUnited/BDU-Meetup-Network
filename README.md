@@ -10,11 +10,18 @@ https://docs.google.com/spreadsheets/d/1fpENo6ipE45ozwpKDvpF1DVfNoFy9jMmSFn4oz0_
 
 
 
-## Meetup Organizer Tips
+## Meetup Organizer Guide
+
+- Finding the right venue
+- Food and Drinks
+- Meetup Frequency
+- Name Tags
 
 
 ## List of Workshops
 
 ## Meetup Schedule
+
+## 
 
 
