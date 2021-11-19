@@ -7,7 +7,7 @@ Everything about the BDU Meetup Network
 https://docs.google.com/spreadsheets/d/1fpENo6ipE45ozwpKDvpF1DVfNoFy9jMmSFn4oz0_Hg0/edit?usp=sharing
 
 ## How to Join
-
+- You must be voted in by existing meetup Network Members
 
 
 ## Meetup Organizer Guide
@@ -25,6 +25,10 @@ https://docs.google.com/spreadsheets/d/1fpENo6ipE45ozwpKDvpF1DVfNoFy9jMmSFn4oz0_
 
 ## Meetup Schedule
 
-## 
+## Governance
+- We use snapshot to make proposals and vote on proposals
+- Each Meetup Organizer receives a non-transferable NFT
+- Any organizer can create a proposal
+- it's one vote per organizer
 
 
